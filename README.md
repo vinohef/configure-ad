@@ -24,8 +24,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-- Step 1: Setup Domain controller
-- Step 2: Setup Client-1
+- Step 1: Setup Domain controller and Client-1
+- Step 2: Install Active directory on DC
+- Step 3: Create a Domain Admin user within the domain
+- Step 4: Join Client-1 to the domain
+- Step 5: Setup Remote desktop for non-admin users on Client-1
+- Step 6: Create a bunch of accounts and attempt to log into client-1 with one
 
 <h2>Deployment and Configuration Steps</h2>
 
