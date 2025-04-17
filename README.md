@@ -354,22 +354,12 @@ Once you've logged back into your DC you're done with step 1.
 <h2></h2>
 Step 2: Create a Domain Admin user within the domain
 
+Inside your DC
+
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/f8HZSbr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -377,21 +367,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/D6jhoCv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -399,21 +377,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qrvZAUk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Right click
 </p>
 <br />
 
@@ -421,10 +388,30 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lJO8Kka.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
+We're creating 2 of these
+
+<p>
+<img src="https://i.imgur.com/Xu5fqxX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+MAKE SURE THIS IS SPELLED CORRECTLY WITH THE UNDERSCORE IN FRONT. We'll need this exact name later
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/gpIkZz0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This is where we'll put our admin user
 </p>
 <br />
 
@@ -432,21 +419,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fwdPr7g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
@@ -454,10 +429,153 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
+<img src="https://i.imgur.com/oNUXsXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+This info doesnt really matter just make sure you remember the credentials
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://i.imgur.com/VaQX6tO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://i.imgur.com/fzTCUyI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/xjCLi4L.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/WQkFDUl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/IIIak3g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/A9n6IfM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After this Step 2 is done!
+</p>
+<br />
+<h2></h2>
+
+Step 3: Joining client-1 to the domian
+
+
+<p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
 </p>
 <br />
 
