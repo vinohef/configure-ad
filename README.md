@@ -564,24 +564,17 @@ Enter the password for the admin account
 <img src="https://i.imgur.com/RHGHxoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
+Drag client 1 into the "_clients" OU, step 3 is done.
 </p>
 <br />
 
+<h2></h2>
 
+Step 4: Setup Remote desktop for non-admin users on Client-1
 
+using client VM as the admin account made earlier 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-</p>
-<br />
-
-
-
-<p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/slDrTuS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -591,7 +584,7 @@ Enter the password for the admin account
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/knIhdz7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -601,7 +594,7 @@ Enter the password for the admin account
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fk1cKvb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -611,7 +604,17 @@ Enter the password for the admin account
 
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F5TjbiP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/yiTFChq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
