@@ -29,7 +29,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Step 2: Create a Domain Admin user within the domain
 - Step 3: Join Client-1 to the domain
 - Step 4: Setup Remote desktop for non-admin users on Client-1
-- Step 5: Create a bunch of accounts and attempt to log into client-1 with one
 
 <h2>Deployment and Configuration Steps</h2>
 Step 0: Setup Domain controller and client
@@ -499,6 +498,146 @@ After this Step 2 is done!
 <h2></h2>
 
 Step 3: Joining client-1 to the domian
+Inside client-1 VM
+
+<p>
+<img src="https://i.imgur.com/slDrTuS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/knIhdz7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/uB89oVN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/PHOM2PW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/U85dBl7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enter the password for the admin account 
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/OyTf3IN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/RHGHxoZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
+
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+</p>
+<br />
+
 
 
 <p>
