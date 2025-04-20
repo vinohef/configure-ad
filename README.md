@@ -15,7 +15,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
@@ -400,7 +399,6 @@ We're creating 2 of these
 <img src="https://i.imgur.com/Xu5fqxX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-MAKE SURE THIS IS SPELLED CORRECTLY WITH THE UNDERSCORE IN FRONT. We'll need this exact name later
 </p>
 <br />
 
@@ -641,8 +639,8 @@ Step 4 is complete
 </p>
 <br />
 
-
-
+<h2></h2>
+Step 5: create a bunch of users using powershell
 <p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
